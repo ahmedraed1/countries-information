@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.headerPage {
+  background-image: url(../public/polygon-scatter-haikei.svg);
+}
+.github-image {
+  background-image: url(../public/icons8-github-48.png);
+}
+
+.boxShadow {
+  box-shadow: 0px 19px 38px 0px rgba(0, 0, 0, 0.3),
+    0px 15px 12px 0px rgba(0, 0, 0, 0.22);
+}
+/* .x-image {
+  background-image: url(https://img.icons8.com/color/48/000000/twitterx--v1.png);
+} */
